@@ -1,7 +1,7 @@
 # d-IMERG
 d-IMERG: A spatiotemporal benchmark dataset for precipitation forecasting (submitted to CVPR2021)
 ## d-IMERG
-d-IMERG is a subset data of IMERG. 
+dynamic-IMERG (d-IMERG) is a subset data of IMERG. 
 <img src="./examples_4.png">
 
 d-IMERG is provided throught following URL.
