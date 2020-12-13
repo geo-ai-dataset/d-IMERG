@@ -1,7 +1,8 @@
 # d-IMERG
 
-# d-IMERG
-
+## d-IMERG
+d-IMERG is a subset data of IMERG. 
+<img src="./examples_4.png">
 
 
 ## IMERG data set
